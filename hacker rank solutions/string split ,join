@@ -1,0 +1,9 @@
+def split_and_join(line):
+    string_splitted = line.split()
+    result = "-".join(string_splitted)
+    return result
+
+    Input (stdin)
+this is a string
+Expected Output
+this-is-a-string
