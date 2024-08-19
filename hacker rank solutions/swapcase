@@ -1,0 +1,6 @@
+def swap_case(s):
+    return s.swapcase()
+Input (stdin)
+HackerRank.com presents "Pythonist 2".
+Expected Output
+hACKERrANK.COM PRESENTS "pYTHONIST 2".
